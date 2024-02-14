@@ -28,20 +28,20 @@ function Home() {
 Click on the "Sign Up" or "Sign In" button on the home page.
 Fill in the required information (name, email, password) and click "Submit".
 
-<br>
+<br></br>
 2.Write a Blog:
 Once signed in, click on the "Add Post" button.
 Enter a title and content for your blog in the provided form.
 Click on the "Upload Photo" button to add a picture to your blog.
 Click on the "Submit" button to publish your blog.
 
-<br>
+<br></br>
 3.Edit a Blog:
 After posting a blog, you can edit it by clicking on the "Edit" button on the blog post.
 Update the title, content, or photo as needed.
 Click on the "Save" button to save your changes.
 
-<br>
+<br></br>
 View All Posts:
 To view all the posts, click on the "All Posts" button on the home page.
 This will display a list of all the posts with their titles and photos.</p>
