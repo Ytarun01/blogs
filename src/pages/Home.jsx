@@ -19,9 +19,33 @@ function Home() {
         <Container>
           <div className="flex flex-wrap">
             <div className="p-2 w-full">
-              <h1 className="text-2xl font-bold hover:text-gray-500">
+              <h3 className="text-2xl font-bold hover:text-gray-500">
                 WELCOME
-              </h1>
+              </h3>
+<p>
+1.Sign Up or Sign In:
+
+Click on the "Sign Up" or "Sign In" button on the home page.
+Fill in the required information (name, email, password) and click "Submit".
+
+
+2.Write a Blog:
+Once signed in, click on the "Add Post" button.
+Enter a title and content for your blog in the provided form.
+Click on the "Upload Photo" button to add a picture to your blog.
+Click on the "Submit" button to publish your blog.
+
+
+3.Edit a Blog:
+After posting a blog, you can edit it by clicking on the "Edit" button on the blog post.
+Update the title, content, or photo as needed.
+Click on the "Save" button to save your changes.
+
+
+View All Posts:
+To view all the posts, click on the "All Posts" button on the home page.
+This will display a list of all the posts with their titles and photos.</p>
+
             </div>
           </div>
         </Container>
