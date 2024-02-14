@@ -22,29 +22,41 @@ function Home() {
               <h3 className="text-2xl font-bold hover:text-gray-500">
                 WELCOME
               </h3>
-<p>
-1.Sign Up or Sign In:
-
-Click on the "Sign Up" or "Sign In" button on the home page.
-Fill in the required information (name, email, password) and click "Submit".
-
-<br></br>
-2.Write a Blog:
-Once signed in, click on the "Add Post" button.
-Enter a title and content for your blog in the provided form.
-Click on the "Upload Photo" button to add a picture to your blog.
-Click on the "Submit" button to publish your blog.
-
-<br></br>
-3.Edit a Blog:
-After posting a blog, you can edit it by clicking on the "Edit" button on the blog post.
-Update the title, content, or photo as needed.
-Click on the "Save" button to save your changes.
-
-<br></br>
-View All Posts:
-To view all the posts, click on the "All Posts" button on the home page.
-This will display a list of all the posts with their titles and photos.</p>
+<div class="max-w-3xl mx-auto py-8 px-4">
+    <div class="bg-gray-100 rounded-lg p-4 mb-4">
+        <h3 class="text-xl font-semibold mb-2">How to Use:</h3>
+        <ol class="list-decimal list-inside">
+            <li class="mb-2">Sign Up or Sign In:
+                <ul class="list-disc list-inside pl-4">
+                    <li>Click on the "Sign Up" or "Sign In" button on the home page.</li>
+                    <li>Fill in the required information (name, email, password) and click "Submit".</li>
+                </ul>
+            </li>
+            <li class="mb-2">Write a Blog:
+                <ul class="list-disc list-inside pl-4">
+                    <li>Once signed in, click on the "Add Blog" button.</li>
+                    <li>Enter a title and content for your blog in the provided form.</li>
+                    <li>Click on the "Choose File" button to add a picture to your blog.</li>
+                    <li>Click on the "Submit" button to publish your blog.</li>
+                </ul>
+            </li>
+            <li class="mb-2">Edit a Blog:
+                <ul class="list-disc list-inside pl-4">
+                    <li>After posting a blog, you can edit it by clicking on the "Edit" button on the blog post.</li>
+                    <li>Update the title, content, or photo as needed.</li>
+                    <li>Click on the "Save" button to save your changes.</li>
+                </ul>
+            </li>
+            <li class="mb-2">View All Posts:
+                <ul class="list-disc list-inside pl-4">
+                    <li>To view all the posts, click on the "All Posts" button on the home page.</li>
+                    <li>This will display a list of all the posts with their titles and photos.</li>
+                </ul>
+            </li>
+        </ol>
+      
+    </div>
+</div>
 
             </div>
           </div>
